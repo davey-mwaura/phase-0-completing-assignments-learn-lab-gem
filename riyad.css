@@ -1,0 +1,14 @@
+
+element.style {
+    display: block;
+    margin: auto;
+    cursor: zoom-out;
+    background-color: hsl(0, 0%, 90%);
+    transition: background-color 300ms;
+}
+
+img{
+    width: 800px;
+    aspect-ratio: auto 800 / 1395;
+    height: 1395px;
+}
